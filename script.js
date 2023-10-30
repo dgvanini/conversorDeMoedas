@@ -73,7 +73,7 @@ function convertValues(){
 
 }
  //mudar os simbolos dos paises
-
+/*
  function changeCurrency(){
   const currencyName = document.getElementsById("currency-name")
   if(selecaoDeMoedas.value == "Dolar") {
@@ -96,4 +96,4 @@ function convertValues(){
  console.log(changeCurrency)
 
 convertButton.addEventListener("click", convertValues)
-
+*/
